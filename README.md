@@ -12,26 +12,19 @@ Welcome to my personal analysis repository! This repository is dedicated to stor
 ### Libraries: Personal Python libraries/modules used across different analyses.
 
 ## Getting Started
-Prerequisites
+### Prerequisites
 Python 3.x
 Jupyter Notebook
 
 ## Installation
-Clone the repository:
+### Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
-Install dependencies:
+*git clone https://github.com/your-username/your-repository.git*
+
+### Install dependencies:
 
 bash
 Copy code
-pip install -r requirements.txt
-Usage
-Open Jupyter Notebooks using a local environment or an online platform like Jupyter Notebook.
-
-Execute Python scripts using the command line:
-
-bash
-Copy code
-python scripts/utility_script_1.py
+*pip install -r requirements.txt*
