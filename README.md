@@ -1,19 +1,22 @@
-Personal Analysis Repository
-Overview
+# Personal Analysis Repository
+
+## Overview
 Welcome to my personal analysis repository! This repository is dedicated to storing Jupyter Notebooks (.ipynb) containing various data analyses, along with accompanying Python scripts and libraries for personal use.
 
-Contents
-Analysis Notebooks: Explore detailed data analyses in Jupyter Notebooks.
+## Contents
 
-Scripts: A collection of Python scripts for specific tasks or utilities.
+### Analysis Notebooks: Explore detailed data analyses in Jupyter Notebooks.
 
-Libraries: Personal Python libraries/modules used across different analyses.
+### Scripts: A collection of Python scripts for specific tasks or utilities.
 
-Getting Started
+### Libraries: Personal Python libraries/modules used across different analyses.
+
+## Getting Started
 Prerequisites
 Python 3.x
 Jupyter Notebook
-Installation
+
+## Installation
 Clone the repository:
 
 bash
