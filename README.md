@@ -13,7 +13,9 @@ Welcome to my personal analysis repository! This repository is dedicated to stor
 
 ## Getting Started
 ### Prerequisites
+
 Python 3.x
+
 Jupyter Notebook
 
 ## Installation
