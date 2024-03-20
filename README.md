@@ -5,13 +5,11 @@ Welcome to my personal analysis repository! This repository is dedicated to stor
 
 ## Contents
 
-### Analysis Notebooks: Explore detailed data analyses in Jupyter Notebooks.
+### Analysis Notebooks: *Explore detailed data analyses in Jupyter Notebooks*.
 
-### Streamlit dashboards: Small interactive analysis dashboards built in streamlit
+### Streamlit dashboards: *Small interactive analysis dashboards built in streamlit*
 
-### Scripts: A collection of Python scripts for specific tasks or utilities.
-
-### Libraries: Personal Python libraries/modules used across different analyses.
+### Scripts/Libraries: *Personal Python libraries/modules used across different analyses*.
 
 ## Getting Started
 ### Prerequisites
