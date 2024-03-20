@@ -21,8 +21,8 @@ Jupyter Notebook
 ## Installation
 ### Clone the repository:
 
-*git clone https://github.com/Tarczi95/nb_analyses.git*
+    git clone https://github.com/Tarczi95/nb_analyses.git
 
 ### Install dependencies:
 
-*pip install -r requirements.txt*
+    pip install -r requirements.txt
